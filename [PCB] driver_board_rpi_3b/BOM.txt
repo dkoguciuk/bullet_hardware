@@ -1,0 +1,27 @@
+L.p.	Nazwa				Oznaczenie			Iloœæ		Dostawca
+1.	Procesor			STM32F103C8T6			1		TME
+2.	Z³¹cza sygna³owe		MX-5268-04A			7		TME
+3.	Z³¹cza sygna³owe		MX-5268-05A			2		TME
+4.	Z³¹cza sygna³owe		NINIGI ZL262-40DG		1		TME
+5.	Goldpin mêski			CONNFLY DS1021-1*20SF11 	1		TME
+6.	Przycisk resetu			NINIGI TACTM-64N-F		1		TME
+7.	Cewka				DL22-2.2			1		TME
+8.	Rezonator kwarcowy		ZTTCR8MG 			1		TME
+9.	Tranzystor MOSFET N		2N7002				1		TME
+10.	Kondensator tantalowy 10uF	T491A106K016AT			1		TME
+11.	Kondensator tantalowy 1uF	T491A105K025AT			1		TME
+12. OGARN¥Æ KONDENSATOR TANTALOWY PRZY ZASILANIU!
+13.	Dioda zenera			BZX84C2V7 			1		TME
+14.	Kondensator ceramiczny 100nF	CL10F104ZA8NNND			15		TME
+15.	Dioda led			0805				3		TME
+16.	Rezystor 100k			SMD0603-100K			3		TME
+17.	Rezystor 47k			RC0805JR-0747K 			1		TME
+18.	Rezystor 12k			RC0805JR-0712K 			1		TME
+9. 	Rezystor 10k			RC0805JR-0710K  		5		TME
+20.	Rezystor 3k			RC0805JR-073K 			1		TME
+21.	Rezystor 1k			SMD0805-1K 			1		TME
+22. 	Rezystor 330R			obudowa 0603			1		TME
+23. 	Rezystor 270R			obudowa 0603			1		TME
+24.	Rezystor 150R			SMD0805-150R 			1		TME
+25.	Rezystor 100R			SMD0805-100R 			6		TME
+26.	Rezystor 68R			obudowa 0603			6		TME	-

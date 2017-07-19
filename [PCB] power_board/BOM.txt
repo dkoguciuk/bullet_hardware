@@ -1,0 +1,15 @@
+L.p.	Nazwa					Oznaczenie			Iloœæ		Dostawca
+1.	Przetwornica 12V			LM2596T-12/NOPB			6		TME
+2.	Przetwornica 5V				TPS62133			1		TI
+3.	Przetwornica 3V3			TPS62142			1		TI
+4.	Dioda Shottkey				SL44				6		TME
+5.	D³awik					DE1207-33 (NIE MA!)		6		TME
+6.	Kondensator tantalowy 100uF		TAJC107K016R			6		TME
+7.	Kondensator elektrolityczny 330uF	EDK337M025A9PAA			3		Farnell
+8. 	Z³¹cze zasilaj¹ce nogi			MOLEX 5268-02A			6		TME
+9. 	Z³¹cze zasilaj¹ce STM			MOLEX 5268-05A			1		TME
+10.	Kondensator tantalowy 10uF		T491A106K016AT			2		TME
+11.	Kondensator tantalowy 22uF		TPSB226K016R0600		2		TME
+12.	Kondensator ceramiczny 100nF		CL21B104KACNNND 		8		TME
+13.	Kondensator ceramiczny 3.3nF		CL21B332KBANNNC			2		TME
+14.	Bezpiecznik topikowy 4A			3413.0222.11			2		TME
